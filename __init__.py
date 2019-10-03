@@ -2,7 +2,7 @@
 lambdata-supai-red
 an exploration of environments
 """
-import pandas as import pd
+import pandas as pd
 import numpy as np
 import lambdata-supai-red
 #from sklearn.model_selection import train_test_split

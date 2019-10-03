@@ -15,18 +15,18 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
   name="supai-red",
-  version="0.0.1"
+  version="0.0.1",
   author="supai-red",
   description="A collection of data science helper functions.",
   long_description=LONG_DESCRIPTION,
   long_description_content_type="text/markdown",
   url="https://github.com/supai-red/lambdata-supai-red",
   packages=setuptools.find_packages(),
-  python_requires">=3.5",
+  python_requires=">=git3.5",
   install_required=REQUIRED,
   classifiers=[
     "Programming Language :: Python :: 3",
-    "License :: oSI Approved :: MIT License",
+    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 
   ],
